@@ -33,7 +33,7 @@
         <dependency>
             <groupId>org.spongepowered</groupId>
             <artifactId>spongeapi</artifactId>
-            <version>7.1.0-20180127.170645-9</version>
+            <version>5.2.0-20170814.172003-8</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
